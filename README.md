@@ -4,10 +4,10 @@
 
 **Beberapa keunggulan yang dimiliki oleh Express.js antara lain:**
 
-*Dukungan pembuatan middleware
-*Dukungan terhadap berbagai HTTP verb seperti POST, GET, PUT, DELETE, OPTION, HEAD, dan lainnya
-*Sudah terpasang template engine Jade
-*manajemen file statik seperti CSS dan Javascript
-*Sangat bebas untuk dikostumisasi
+* Dukungan pembuatan middleware
+* Dukungan terhadap berbagai HTTP verb seperti POST, GET, PUT, DELETE, OPTION, HEAD, dan lainnya
+* Sudah terpasang template engine Jade
+* manajemen file statik seperti CSS dan Javascript
+* Sangat bebas untuk dikostumisasi
 
 [Link Flowchart API](https://drive.google.com/drive/folders/1tjuwHoouO-ZYVN3iN9l7lTriOyBJooEw?usp=sharing)
