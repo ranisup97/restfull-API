@@ -1,5 +1,5 @@
 # Restful API
-*This program is about restful api, where there are methods create, read, update, delete and also search
+*This program is about restful api, where there are methods create, read, update, delete and also search.
 This program also uses the mysql module, node js and express js*
 
 **How to Install modules in this program**
