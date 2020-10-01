@@ -7,7 +7,7 @@ This program also uses the mysql module, node js and express js*
 2. npm i mysql express body-parser
 
 Link postman documentation on restful APIs and flowchart
-1. [this is postman documentation on restful APIs] (https://documenter.getpostman.com/view/12579753/TVRd9WjW)
+1. [Link postman documentation on restful APIs](https://documenter.getpostman.com/view/12579753/TVRd9WjW)
 2. [Link Flowchart API](https://drive.google.com/drive/folders/1tjuwHoouO-ZYVN3iN9l7lTriOyBJooEw?usp=sharing)
 
 ## 1 Node JS
